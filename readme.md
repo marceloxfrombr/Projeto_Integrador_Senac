@@ -31,8 +31,16 @@ Repositório criado para o trabalho integrador do terceiro semestre do curso de 
 
 ***Jornada Aluno:*** Cadastro em disciplinas optativas
 
+![Login Aluno](documentacao/prototipos/jornada-aluno/Login_Aluno.jpg)
+![Menu geral aluno](documentacao/prototipos/jornada-aluno/Menu_Aluno.jpg)
+![Matricula Disciplinas](documentacao/prototipos/jornada-aluno/Menu_Aluno_2.jpg)
+![Confirmação Matrícula](documentacao/prototipos/jornada-aluno/Menu_Aluno_3.jpg)
 
 ***Jonada Professor:*** Lançamento de notas e faltas
+
+![Login_Professor](documentacao/prototipos/jornada professor/Login_Professor.jpg)
+![Menu_Professor](documentacao/prototipos/jornada professor/Menu_Professor.jpg)
+
 
 
 ***Jornada Fornecedor:*** Listagem de apostilas em estoque disponíveis para comercialização
