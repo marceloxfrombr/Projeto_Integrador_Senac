@@ -38,7 +38,6 @@ Repositório criado para o trabalho integrador do terceiro semestre do curso de 
 
 ***Jonada Professor:*** Lançamento de notas e faltas
 
-![Login Professor](documentacao/prototipos/jornada-professor/Menu_Professor.jpg)
 ![Menu Professor](documentacao/prototipos/jornada-professor/Menu_Professor.jpg)
 ![Lancamento de faltas](documentacao/prototipos/jornada-professor/Menu_Professor_2.jpg)
 ![Lancamento de faltas](documentacao/prototipos/jornada-professor/Menu_Professor_3.jpg)
