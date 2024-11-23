@@ -40,8 +40,9 @@ Repositório criado para o trabalho integrador do terceiro semestre do curso de 
 
 ## Diagrama de Casos de Uso
 
+![Diagrama de Casos de Uso](documentacao/diagrama-casos-de-uso/diagrama-de-casos-de-uso.jpg)
 
 ## Diagrama de Classes
 
-!([/Documentação/Diagrama de Classes/Diagrama de Classes.jpg](https://github.com/marceloxfrombr/Projeto_Integrador_Senac/blob/Main/Documenta%C3%A7%C3%A3o/Diagrama%20de%20Classes/Diagrama%20de%20Classes.jpg))
+![Diagrama de Classes](documentacao/diagrama-de-classes/diagrama-de-classes.jpg)
 
