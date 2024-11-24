@@ -1,4 +1,4 @@
-# Projeto Integrador - Desenvolvimento de sistemas Orientado a objeto
+# Projeto Integrador - Desenvolvimento de sistemas Orientado a objetos
 
 Repositório criado para o trabalho integrador do terceiro semestre do curso de Desenvolvimento de Sistemas Orientado a Objetos - SENAC 2024
 
