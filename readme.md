@@ -1,6 +1,6 @@
 # Projeto Integrador - Desenvolvimento de sistemas Orientado a objetos
 
-Repositório criado para o trabalho integrador do terceiro semestre do curso de Desenvolvimento de Sistemas Orientado a Objetos - SENAC 2024
+Repositório criado para o Projeto Integrador do terceiro semestre do curso de Desenvolvimento de Sistemas Orientado a Objetos - SENAC 2024
 
 ## Requisitos
 
