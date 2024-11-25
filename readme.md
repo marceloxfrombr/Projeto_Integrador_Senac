@@ -39,18 +39,18 @@ Repositório criado para o trabalho integrador do terceiro semestre do curso de 
 ***Jonada Professor:*** Lançamento de notas e faltas
 
 ![Menu Professor](documentacao/prototipos/jornada-professor/Menu_Professor.jpg)
-![Lancamento de faltas](documentacao/prototipos/jornada-professor/Menu_Professor_2.jpg)
-![Lancamento de faltas](documentacao/prototipos/jornada-professor/Menu_Professor_3.jpg)
-![Lancamento de faltas](documentacao/prototipos/jornada-professor/Menu_Professor_4.jpg)
+![Lancamento de Faltas](documentacao/prototipos/jornada-professor/Menu_Professor_2.jpg)
+![Lancamento de Faltas](documentacao/prototipos/jornada-professor/Menu_Professor_3.jpg)
+![Lancamento de Faltas](documentacao/prototipos/jornada-professor/Menu_Professor_4.jpg)
 ![Confirmacao Lancamento](documentacao/prototipos/jornada-professor/Menu_Professor_5.jpg)
 
 
 ***Jornada Fornecedor:*** Listagem de apostilas em estoque disponíveis para comercialização
 
 ![Login Fornecedor](documentacao/prototipos/jornada-fornecedor/login_fornecedor.jpg)
-![Menu fornecedor](documentacao/prototipos/jornada-fornecedor/Menu_Fornecedor.jpg)
-![Listar estoque](documentacao/prototipos/jornada-fornecedor/Menu_Fornecedor_2.jpg)
-![Listar estoque](documentacao/prototipos/jornada-fornecedor/Menu_Fornecedor_3.jpg)
+![Menu Fornecedor](documentacao/prototipos/jornada-fornecedor/Menu_Fornecedor.jpg)
+![Listar Estoque](documentacao/prototipos/jornada-fornecedor/Menu_Fornecedor_2.jpg)
+![Listar Estoque](documentacao/prototipos/jornada-fornecedor/Menu_Fornecedor_3.jpg)
 
 ## Diagrama de Casos de Uso
 
