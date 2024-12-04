@@ -4,7 +4,7 @@ Repositório criado para o Projeto Integrador do terceiro semestre do curso de D
 
 ## Requisitos
 
-**Alunos**
+*Alunos*
 
 - Localizar disciplinas;
 - Verificar notas e faltas;
@@ -13,13 +13,13 @@ Repositório criado para o Projeto Integrador do terceiro semestre do curso de D
 - Acessar área de compras;
 - Encomendar apostilas.
 
-**Professores**
+*Professores*
 
 - Lançar notas e faltas;
 - Compartilhar correções com alunos;
 - Listar apostilas para estudo.
 
-**Fornecedores**
+*Fornecedores*
 
 - Disponibilizar catálogo das disciplinas;
 - Faturar apostilas;
@@ -29,14 +29,14 @@ Repositório criado para o Projeto Integrador do terceiro semestre do curso de D
 
 ## Protótipo
 
-***Jornada Aluno:*** Cadastro em disciplinas optativas
+**Jornada Aluno**: Cadastro em disciplinas optativas
 
 ![Login Aluno](documentacao/prototipos/jornada-aluno/Login_Aluno.jpg)
 ![Menu geral aluno](documentacao/prototipos/jornada-aluno/Menu_Aluno.jpg)
 ![Matricula Disciplinas](documentacao/prototipos/jornada-aluno/Menu_Aluno_2.jpg)
 ![Confirmação Matrícula](documentacao/prototipos/jornada-aluno/Menu_Aluno_3.jpg)
 
-***Jonada Professor:*** Lançamento de notas e faltas
+**Jonada Professor**: Lançamento de notas e faltas
 
 ![Menu Professor](documentacao/prototipos/jornada-professor/Menu_Professor.jpg)
 ![Lancamento de Faltas](documentacao/prototipos/jornada-professor/Menu_Professor_2.jpg)
@@ -45,7 +45,7 @@ Repositório criado para o Projeto Integrador do terceiro semestre do curso de D
 ![Confirmacao Lancamento](documentacao/prototipos/jornada-professor/Menu_Professor_5.jpg)
 
 
-***Jornada Fornecedor:*** Listagem de apostilas em estoque disponíveis para comercialização
+**Jornada Fornecedor**: Listagem de apostilas em estoque disponíveis para comercialização
 
 ![Login Fornecedor](documentacao/prototipos/jornada-fornecedor/login_fornecedor.jpg)
 ![Menu Fornecedor](documentacao/prototipos/jornada-fornecedor/Menu_Fornecedor.jpg)
